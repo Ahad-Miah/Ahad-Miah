@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="172" src="https://github.com/Ahad-Miah/Ahad-Miah/blob/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner.png?raw=true"  />
+  <img height="200" src="https://github.com/Ahad-Miah/Ahad-Miah/blob/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner.png?raw=true"  />
 </div>
 
 ###
