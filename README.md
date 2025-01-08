@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/Ahad-Miah/Ahad-Miah/blob/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner.png?raw=true"  />
+  <img height="172" src="https://github.com/Ahad-Miah/Ahad-Miah/blob/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner.png?raw=true"  />
 </div>
 
 ###
@@ -44,6 +44,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
 ###
