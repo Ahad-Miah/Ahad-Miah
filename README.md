@@ -72,4 +72,14 @@
   </a>
 </div>
 
+### 🔥 Contributions & Streak   
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahad-Miah&theme=react&hide_border=true)  
+
+### 🚀 Total Contributions  
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Ahad-Miah&show_icons=true&count_private=true&theme=react&hide_border=true)  
+
+### 💻 Languages Used  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-Miah&layout=compact&theme=react&hide_border=true)  
+
+
 ###
