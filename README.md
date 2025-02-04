@@ -27,6 +27,11 @@
 <p align="left">🌱 I’m currently learning NEXT.JS.<br>🚀 I’m working on a restaurant website to enhance user experience.<br>🔭 Exploring TypeScript to strengthen my JavaScript foundation.</p>
 
 ###
+## 🚀 Current Activities  
+
+- 🌐 Exploring **Next.js** and improving my front-end development skills.  
+- 🏝️ Working on a **property management website** 
+- 💻 Building a **REST API** for a personal project using **Node.js** and **Express**.  
 
 <h2 align="left">Things I code with</h2>
 
