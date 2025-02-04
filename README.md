@@ -54,19 +54,28 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <a href="https://github.com/Ahad-Miah">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahad-Miah&theme=react&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/Ahad-Miah">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahad-Miah&show_icons=true&count_private=true&theme=react&hide_border=true" alt="GitHub Contributions" />
-  </a>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Ahad-Miah">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahad-Miah&theme=react&hide_border=true" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Ahad-Miah">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ahad-Miah&show_icons=true&count_private=true&theme=react&hide_border=true" alt="GitHub Contributions" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<a href="https://github.com/Ahad-Miah">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-Miah&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+</a>
+
 </div>
 
-<div align="center">
-  <a href="https://github.com/Ahad-Miah">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-Miah&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
 
 
 ---
