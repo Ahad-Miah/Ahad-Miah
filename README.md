@@ -5,9 +5,9 @@
 ---
 
 <h1 align="center">Hey there, What's up? 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7BF3F&center=true&vCenter=true&width=450&lines=I+am+Md+Ahad+Miah;Front-End+Developer;React+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+<h2 align="center">I am Md Ahad Miah </h2>
+<p align="center" align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7BF3F&center=true&vCenter=true&width=450&lines=Front-End+Developer;React+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
